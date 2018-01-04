@@ -10,6 +10,7 @@ The graph can be Directed or Undirected
 I have implemented this abstract data type by :
 
 1)Adjacency Matrix and calculated the in and out degrees of each node/vertex
+
 2)Adjacency list and implemented traversal algorithm like BFS and DFS and checked whether the graph is strongly connected or not
 
 
